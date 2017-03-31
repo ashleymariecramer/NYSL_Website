@@ -161,7 +161,7 @@ h1{
 }
 
 .background{
-    background: url("https://ashleymariecramer.github.io/images/design1_image1.jpeg") no-repeat;
+    background: url("/images/design1_image1.jpeg") no-repeat;
     background-size: cover;
     padding-top: 150px;
     background-attachment: fixed;
